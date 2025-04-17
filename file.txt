@@ -3,4 +3,8 @@ Hi Team
 Welcome to SOftware Gurukulam
 
 
+<<<<<<< HEAD
 Hi Praveen Welcome Onboard
+=======
+Hi Ranjith had your breakfast?
+>>>>>>> dev
